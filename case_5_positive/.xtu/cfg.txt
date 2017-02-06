@@ -1,0 +1,1 @@
+/home/gamesh411/tinyxml_bug_replication/fifth_case/replicate/test.cpp@x86_64::_Z4mainiPPc@x86_64 _Z12do_the_thingv@x86_64

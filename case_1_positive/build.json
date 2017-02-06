@@ -1,0 +1,19 @@
+[
+	{
+		"directory": "/home/gamesh411/tinyxml_bug_replication/first_working_case/replicate",
+		"command": "g++ -I/usr/include/c++/5 -I/usr/include/x86_64-linux-gnu/c++/5 -I/usr/include/c++/5/backward -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -c -o /home/gamesh411/tinyxml_bug_replication/first_working_case/replicate/replicate.o /home/gamesh411/tinyxml_bug_replication/first_working_case/replicate/replicate.cpp",
+		"file": "/home/gamesh411/tinyxml_bug_replication/first_working_case/replicate/replicate.cpp"
+	}
+	,
+	{
+		"directory": "/home/gamesh411/tinyxml_bug_replication/first_working_case/replicate",
+		"command": "g++ -I/usr/include/c++/5 -I/usr/include/x86_64-linux-gnu/c++/5 -I/usr/include/c++/5/backward -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include /home/gamesh411/tinyxml_bug_replication/first_working_case/replicate/test.cpp /home/gamesh411/tinyxml_bug_replication/first_working_case/replicate/libreplicate.a -o /home/gamesh411/tinyxml_bug_replication/first_working_case/replicate/test",
+		"file": "/home/gamesh411/tinyxml_bug_replication/first_working_case/replicate/test.cpp"
+	}
+	,
+	{
+		"directory": "/home/gamesh411/tinyxml_bug_replication/first_working_case/replicate",
+		"command": "g++ -I/usr/include/c++/5 -I/usr/include/x86_64-linux-gnu/c++/5 -I/usr/include/c++/5/backward -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include /home/gamesh411/tinyxml_bug_replication/first_working_case/replicate/test.cpp /home/gamesh411/tinyxml_bug_replication/first_working_case/replicate/libreplicate.a -o /home/gamesh411/tinyxml_bug_replication/first_working_case/replicate/test",
+		"file": "/home/gamesh411/tinyxml_bug_replication/first_working_case/replicate/libreplicate.a"
+	}
+]

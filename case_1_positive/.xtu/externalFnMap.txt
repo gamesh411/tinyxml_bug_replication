@@ -1,0 +1,1 @@
+_ZN12replicate_ns13use_replicateEb@x86_64 /ast/x86_64/home/gamesh411/tinyxml_bug_replication/first_working_case/replicate/replicate.cpp.ast

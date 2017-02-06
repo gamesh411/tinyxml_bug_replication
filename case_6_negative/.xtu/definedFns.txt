@@ -1,0 +1,5 @@
+!_Z4mainiPPc@x86_64 /ast/x86_64/home/gamesh411/tinyxml_bug_replication/case_6_positive/replicate/test.cpp 3
+!_ZN39class_with_default_argument_constructorC1Eb@x86_64 /ast/x86_64/home/gamesh411/tinyxml_bug_replication/case_6_positive/replicate/replicate.cpp 0
+!_Z12do_the_thingv@x86_64 /ast/x86_64/home/gamesh411/tinyxml_bug_replication/case_6_positive/replicate/replicate.cpp 0
+!_ZN39class_with_default_argument_constructorC1Eb@x86_64 /ast/x86_64/home/gamesh411/tinyxml_bug_replication/case_6_positive/replicate/replicate.cpp 0
+!_Z12do_the_thingv@x86_64 /ast/x86_64/home/gamesh411/tinyxml_bug_replication/case_6_positive/replicate/replicate.cpp 2

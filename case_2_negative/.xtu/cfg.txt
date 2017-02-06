@@ -1,0 +1,2 @@
+/home/gamesh411/tinyxml_bug_replication/second_working_case/replicate/test.cpp@x86_64::_Z4mainiPPc@x86_64 ::_ZN12replicate_ns17mediator_functionEv@x86_64
+/home/gamesh411/tinyxml_bug_replication/second_working_case/replicate/test.cpp@x86_64::_ZN12replicate_ns17mediator_functionEv@x86_64 ::_ZN12replicate_ns25function_with_default_argEb@x86_64

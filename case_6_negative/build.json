@@ -1,0 +1,19 @@
+[
+	{
+		"directory": "/home/gamesh411/tinyxml_bug_replication/case_6_positive/replicate",
+		"command": "g++ -I/usr/include/c++/5 -I/usr/include/x86_64-linux-gnu/c++/5 -I/usr/include/c++/5/backward -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -c -o /home/gamesh411/tinyxml_bug_replication/case_6_positive/replicate/replicate.o /home/gamesh411/tinyxml_bug_replication/case_6_positive/replicate/replicate.cpp",
+		"file": "/home/gamesh411/tinyxml_bug_replication/case_6_positive/replicate/replicate.cpp"
+	}
+	,
+	{
+		"directory": "/home/gamesh411/tinyxml_bug_replication/case_6_positive/replicate",
+		"command": "g++ -I/usr/include/c++/5 -I/usr/include/x86_64-linux-gnu/c++/5 -I/usr/include/c++/5/backward -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include /home/gamesh411/tinyxml_bug_replication/case_6_positive/replicate/test.cpp /home/gamesh411/tinyxml_bug_replication/case_6_positive/replicate/replicate.o -o /home/gamesh411/tinyxml_bug_replication/case_6_positive/replicate/test",
+		"file": "/home/gamesh411/tinyxml_bug_replication/case_6_positive/replicate/test.cpp"
+	}
+	,
+	{
+		"directory": "/home/gamesh411/tinyxml_bug_replication/case_6_positive/replicate",
+		"command": "g++ -I/usr/include/c++/5 -I/usr/include/x86_64-linux-gnu/c++/5 -I/usr/include/c++/5/backward -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include /home/gamesh411/tinyxml_bug_replication/case_6_positive/replicate/test.cpp /home/gamesh411/tinyxml_bug_replication/case_6_positive/replicate/replicate.o -o /home/gamesh411/tinyxml_bug_replication/case_6_positive/replicate/test",
+		"file": "/home/gamesh411/tinyxml_bug_replication/case_6_positive/replicate/replicate.o"
+	}
+]

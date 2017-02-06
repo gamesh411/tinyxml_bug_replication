@@ -1,0 +1,1 @@
+/home/gamesh411/tinyxml_bug_replication/case_7/replicate/replicate.cpp@x86_64::_Z12do_the_thingv@x86_64 ::_Z25function_with_default_argb@x86_64

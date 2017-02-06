@@ -1,0 +1,5 @@
+_ZN12replicate_ns9replicateC1EbNS_14replicate_enumE@x86_64 /ast/x86_64/home/gamesh411/tinyxml_bug_replication/first_working_case/replicate/test.cpp 3
+!_Z4mainiPPc@x86_64 /ast/x86_64/home/gamesh411/tinyxml_bug_replication/first_working_case/replicate/test.cpp 2
+_ZN12replicate_ns9replicateC1EbNS_14replicate_enumE@x86_64 /ast/x86_64/home/gamesh411/tinyxml_bug_replication/first_working_case/replicate/replicate.cpp 3
+!_ZN12replicate_ns13use_replicateEb@x86_64 /ast/x86_64/home/gamesh411/tinyxml_bug_replication/first_working_case/replicate/replicate.cpp 0
+!_ZN12replicate_ns13use_replicateEb@x86_64 /ast/x86_64/home/gamesh411/tinyxml_bug_replication/first_working_case/replicate/replicate.cpp 3

@@ -1,0 +1,2 @@
+_Z12do_the_thingv@x86_64 /ast/x86_64/home/gamesh411/tinyxml_bug_replication/third_case/replicate/replicate.cpp.ast
+_ZN39class_with_default_argument_constructorC1Eb7setting@x86_64 /ast/x86_64/home/gamesh411/tinyxml_bug_replication/third_case/replicate/replicate.cpp.ast

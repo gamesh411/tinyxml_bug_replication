@@ -1,0 +1,4 @@
+_ZN39class_with_default_argument_constructorC1Eb@x86_64
+_Z12do_the_thingv@x86_64
+_ZN39class_with_default_argument_constructorC1ERKS_@x86_64
+_Z8instancev@x86_64

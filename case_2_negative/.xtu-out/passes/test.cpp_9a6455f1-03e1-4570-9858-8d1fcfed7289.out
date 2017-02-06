@@ -1,0 +1,25 @@
+/home/gamesh411/llvm/tools/clang/tools/scan-build-py/bin/analyze-cc -I/usr/include/c++/5 -I/usr/include/x86_64-linux-gnu/c++/5 -I/usr/include/c++/5/backward -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include /home/gamesh411/tinyxml_bug_replication/second_working_case/replicate/test.cpp /home/gamesh411/tinyxml_bug_replication/second_working_case/replicate/libreplicate.a -o /home/gamesh411/tinyxml_bug_replication/second_working_case/replicate/test
+analyze: INFO: execute compiler: g++ -I/usr/include/c++/5 -I/usr/include/x86_64-linux-gnu/c++/5 -I/usr/include/c++/5/backward -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include /home/gamesh411/tinyxml_bug_replication/second_working_case/replicate/test.cpp /home/gamesh411/tinyxml_bug_replication/second_working_case/replicate/libreplicate.a -o /home/gamesh411/tinyxml_bug_replication/second_working_case/replicate/test
+analyze: INFO: _Z4mainiPPc@x86_64 empty_wl not_exhausted no_block_aborted
+analyze: INFO: ===-------------------------------------------------------------------------===
+analyze: INFO:                          Miscellaneous Ungrouped Timers
+analyze: INFO: ===-------------------------------------------------------------------------===
+analyze: INFO: 
+analyze: INFO:    ---Wall Time---  --- Name ---
+analyze: INFO:    0.0024 (100.0%)  Analyzer Total Time
+analyze: INFO:    0.0024 (100.0%)  Total
+analyze: INFO: 
+analyze: INFO: ===-------------------------------------------------------------------------===
+analyze: INFO:                           ... Statistics Collected ...
+analyze: INFO: ===-------------------------------------------------------------------------===
+analyze: INFO: 
+analyze: INFO:  3 AnalysisConsumer - The maximum number of basic blocks in a function.
+analyze: INFO:  8 AnalysisConsumer - The # of basic blocks in the analyzed functions.
+analyze: INFO:  4 AnalysisConsumer - The # of functions at top level.
+analyze: INFO:  1 AnalysisConsumer - The # of functions and blocks analyzed (as top level with inlining turned on).
+analyze: INFO: 75 AnalysisConsumer - The % of reachable basic blocks.
+analyze: INFO:  1 CoreEngine       - The # of paths explored by the analyzer.
+analyze: INFO: 20 CoreEngine       - The # of steps executed.
+analyze: INFO:  2 ExprEngine       - The # of times we inlined a call
+analyze: INFO:  7 ExprEngine       - The # of times RemoveDeadBindings is called
+analyze: INFO: 
