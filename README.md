@@ -8,7 +8,7 @@ InstalledDir: /home/gamesh411/clang_build_debug/bin
 
 Stacktrace:
 
-
+```
 /home/gamesh411/llvm/tools/clang/tools/scan-build-py/bin/analyze-cc -I/usr/include/c++/5 -I/usr/include/x86_64-linux-gnu/c++/5 -I/usr/include/c++/5/backward -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include /home/gamesh411/tinyxml2anal/tinyxml2/xmltest.cpp /home/gamesh411/tinyxml2anal/tinyxml2/libtinyxml2.a -o /home/gamesh411/tinyxml2anal/tinyxml2/xmltest
 analyze: INFO: execute compiler: g++ -I/usr/include/c++/5 -I/usr/include/x86_64-linux-gnu/c++/5 -I/usr/include/c++/5/backward -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include /home/gamesh411/tinyxml2anal/tinyxml2/xmltest.cpp /home/gamesh411/tinyxml2anal/tinyxml2/libtinyxml2.a -o /home/gamesh411/tinyxml2anal/tinyxml2/xmltest
 analyze: INFO: Importing function _ZN8tinyxml211XMLDocumentC1EbNS_10WhitespaceE@x86_64 from /home/gamesh411/tinyxml2anal/debug_anal/.xtu//ast/x86_64/home/gamesh411/tinyxml2anal/tinyxml2/tinyxml2.cpp.ast
@@ -87,4 +87,4 @@ analyze: INFO: 	#0 int example_2()
 analyze: INFO: 	#1 int main(int argc, const char **argv)
 analyze: INFO: 3.	/home/gamesh411/tinyxml2anal/tinyxml2/xmltest.cpp:130:14: Error evaluating statement
 analyze: INFO: 4.	/home/gamesh411/tinyxml2anal/tinyxml2/xmltest.cpp:130:14: Error evaluating statement
-
+```
